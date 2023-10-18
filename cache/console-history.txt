@@ -1,0 +1,81 @@
+await nft.approve(accounts[1].address)
+accounts[1].address
+await nft.ownerOf(1)
+nft.ownerOf(1)
+await nft.safeTransferFrom(accounts[0].address, accounts[1].address, 1)
+let tx = await nft.safeTransferFrom(accounts[0].address, accounts[1].address, 1)
+let tx = await nft.safeTransferFrom(receiver, deployeer, 1)
+await nft.approve(accounts[1].address)
+nft.approve(accounts[1].address)
+accounts[0].address
+accounts[0]
+let accounts = await ethers.getSigners()
+nft
+const nft = await ethers.getContractAt("NFTFactory", "0x4ed7c70F96B99c776995fB64377f0d4aB3B0e1C1")
+const nft = await ethers.getContractAt("NFTFactory", 0x9A676e781A523b5d0C0e43731313A708CB607508)
+await nft.approve(receiver, 1)
+await nft.connect(receiver).approve(deployeer, 1)
+await nft.connect(receiver).interface.approve(deployeer, 1)
+await nft.connect(receiver).interface.approve
+await nft.connect(receiver).interface
+await nft.connect(receiver)
+await nft.connect(deployeer)
+await nft.connect(receiver)
+await nft.name()
+await nft.connect(receiver).name()
+await nft.connect(receiver).approve(deployeer, 1)
+await nft.connect(receiver).safeTransferFrom(receiver, deployeer, 1)
+await nft.connect(receiver).safeTransferFrom(deployeer, 1)
+await nft.connect(receiver).safeTransferFrom(receiver, deployeer, 1)
+await nft.connect(receiver).safeTransferFrom(msg.sender, deployeer, 1)
+await nft.ownerOf(1)
+nft.ownerOf(1)
+await nft.safeTransferFrom(receiver, deployeer, 1)
+await nft.connect(receiver)
+await nft.safeTransferFrom(receiver, deployeer, 1)
+await nft.connect(receiver).safeTransferFrom(receiver, deployeer, 1);
+await nft.connect(receiver).safeTransferFrom(receiver, deployer, 1);
+let tx3 = await await nft.connectn(receiver).safeTransferFrom(receiver, deployeer, 1)
+nft.target
+deployeer
+let tx2 = await nft.safeTransferFrom(receiver, deployeer, 1)
+let tx = await nft.safeTransferFrom(receiver, deployeer, 1)
+deployeer
+receiver
+await nft.ownerOf(1)
+await nft.balanceOf(accounts[1].address)
+await nft.balanceOf(accounts[0].address)
+tx
+await result
+result
+let result = tx.wait()
+tx
+let tx = await nft.safeTransferFrom(deployeer, receiver, 1)
+const transaction = await nft.safeTransferFrom(deployer, receiver, 1)
+receiver
+const receiver = accounts[1].address
+deployeer
+const deployeer = accounts[0].address
+const deployerr = addresses[0].address
+const deployer = addresses[0].address
+const deployer = awaitaddresses[0].address
+await nft.balanceOf(accounts[0].address)
+nft.balanceOf(accounts[0].address)
+await nft.ownerOf(1)
+nft.ownerOf(1)
+accounts[0].address
+accounts
+const accounts = await ethers.getSigners()
+await nft.name()
+nft.name()
+nft.interface
+nft
+nft.interface
+nft.target
+nft
+nft.address
+const nft = await ethers.getContractAt("NFTFactory", "0x0b306bf915c4d645ff596e518faf3f9669b97016")
+const nft = await ethers.getContractAt("NFTFactory", 0x0b306bf915c4d645ff596e518faf3f9669b97016)
+const nft2 = await ethers.getContractAt("Torso #1", 0x9A676e781A523b5d0C0e43731313A708CB607508)
+const nft = await ethers.getContractAt("Torso #1", 0x9A676e781A523b5d0C0e43731313A708CB607508)
+const nft = await ethers.getContractAt("NFTFactory", 0x9A676e781A523b5d0C0e43731313A708CB607508)
